@@ -1,3 +1,3 @@
 GAME CENTER - API
 
-Developed by: AlexandrMagno (TG)
+/Developed by: AlexandrMagno (TG)
