@@ -1,0 +1,755 @@
+[2024-07-18 01:26:31] Failed to fetch file from remote server. Path: chat/index.html, Status Code: 403
+[2024-07-18 01:26:34] Failed to fetch file from remote server. Path: sw.js, Status Code: 403
+[2024-07-18 01:28:21] Failed to fetch file from remote server. Path: chat/index.html, Status Code: 403
+[2024-07-18 01:28:23] Failed to fetch file from remote server. Path: sw.js, Status Code: 403
+[2024-07-18 01:28:27] Failed to fetch file from remote server. Path: chat/index.html, Status Code: 403
+[2024-07-18 01:28:29] Failed to fetch file from remote server. Path: chat/index.html, Status Code: 403
+[2024-07-18 01:28:29] Failed to fetch file from remote server. Path: sw.js, Status Code: 403
+[2024-07-18 01:28:31] Failed to fetch file from remote server. Path: sw.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FwjDLaOPhKuc7.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FgYeMsjYDOpSM.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2F1fbcSIu1J5F7.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FQMv6OfQnvMCr.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FvRNmMrQ9APcw.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FchO7dVXzO2os.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FqzvdHRG5xK6k.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FQ0PgLpLDA5M5.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2F7R9mFgprB3yo.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FrTqxu9eOQXUm.js, Status Code: 403
+[2024-07-18 01:29:38] Failed to fetch file from remote server. URL: https://consultasrs.com/fonts%2FInter-VariableFont_slnt%252Cwght.woff2, Status Code: 403
+[2024-07-18 01:29:40] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:29:42] Failed to fetch file from remote server. URL: https://consultasrs.com/fonts%2FVK21BZr4gu92.woff2, Status Code: 403
+[2024-07-18 01:29:42] Failed to fetch file from remote server. URL: https://consultasrs.com/fonts%2FiBLQdmVR4CYh.woff, Status Code: 403
+[2024-07-18 01:29:42] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:29:44] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:29:48] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:29:49] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:29:50] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:29:51] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:29:52] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:29:54] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:29:56] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:29:57] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:29:58] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:29:58] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:29:59] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:30:01] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:30:03] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:30:05] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:30:05] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:30:06] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:30:08] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:30:09] Failed to fetch file from remote server. URL: https://consultasrs.com/chat%2Findex.html, Status Code: 403
+[2024-07-18 01:30:11] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:30:12] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FqzvdHRG5xK6k.js, Status Code: 403
+[2024-07-18 01:30:12] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FrTqxu9eOQXUm.js, Status Code: 403
+[2024-07-18 01:30:12] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FQ0PgLpLDA5M5.js, Status Code: 403
+[2024-07-18 01:30:12] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FvRNmMrQ9APcw.js, Status Code: 403
+[2024-07-18 01:30:12] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2F1fbcSIu1J5F7.js, Status Code: 403
+[2024-07-18 01:30:12] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2F7R9mFgprB3yo.js, Status Code: 403
+[2024-07-18 01:30:12] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FchO7dVXzO2os.js, Status Code: 403
+[2024-07-18 01:30:12] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FgYeMsjYDOpSM.js, Status Code: 403
+[2024-07-18 01:30:13] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 403
+[2024-07-18 01:30:13] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FQMv6OfQnvMCr.js, Status Code: 403
+[2024-07-18 01:30:13] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2FwjDLaOPhKuc7.js, Status Code: 403
+[2024-07-18 01:30:14] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:30:36] Failed to fetch file from remote server. URL: https://consultasrs.com/index.html, Status Code: 403
+[2024-07-18 01:30:37] Failed to fetch file from remote server. URL: https://consultasrs.com/index.html, Status Code: 403
+[2024-07-18 01:30:38] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:30:39] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:30:47] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:32:11] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fcategory%2Fjogos-de-aventura, Status Code: 403
+[2024-07-18 01:33:13] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Faml-policy, Status Code: 403
+[2024-07-18 01:34:01] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fprivacy, Status Code: 403
+[2024-07-18 01:36:18] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 403
+[2024-07-18 01:39:06] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 01:39:09] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 01:39:46] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 01:40:05] Failed to fetch file from remote server. URL: https://consultasrs.com/favicon.ico, Status Code: 404
+[2024-07-18 01:41:48] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 01:45:38] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 01:45:42] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 01:46:01] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 01:47:18] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 01:47:32] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 01:47:33] Failed to fetch file from remote server. URL: https://consultasrs.com/fonts%2FInter-VariableFont_slnt%252Cwght.woff2, Status Code: 404
+[2024-07-18 01:47:35] Failed to fetch file from remote server. URL: https://consultasrs.com/favicon.ico, Status Code: 404
+[2024-07-18 01:49:01] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fevolution%2Fdeal-or-no-deal, Status Code: 404
+[2024-07-18 01:52:14] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 01:52:15] Failed to fetch file from remote server. URL: https://consultasrs.com/fonts%2FInter-VariableFont_slnt%252Cwght.woff2, Status Code: 404
+[2024-07-18 01:52:17] Failed to fetch file from remote server. URL: https://consultasrs.com/favicon.ico, Status Code: 404
+[2024-07-18 01:52:25] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 01:52:26] Failed to fetch file from remote server. URL: https://consultasrs.com/favicon.ico, Status Code: 404
+[2024-07-18 01:53:22] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 01:55:22] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 02:02:32] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 02:04:02] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Ffruit-party, Status Code: 404
+[2024-07-18 02:04:16] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fsmartsoft%2Fcricketx, Status Code: 404
+[2024-07-18 02:08:00] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 02:13:30] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 02:19:00] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 02:19:02] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fproviders%2F7-mojos-slots, Status Code: 404
+[2024-07-18 02:24:30] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 02:30:00] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 02:32:12] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fcategory%2Fjogos-da-pg, Status Code: 404
+[2024-07-18 02:34:02] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Flive-sweet-bonanza-candyland, Status Code: 404
+[2024-07-18 02:49:12] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Ffugaso%2Fmagnify-man, Status Code: 404
+[2024-07-18 02:51:51] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 02:57:21] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 03:01:13] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpgsoft%2Ffortune-dragon, Status Code: 404
+[2024-07-18 03:02:52] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 03:03:13] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fevolution%2Fimmersive-roulette, Status Code: 404
+[2024-07-18 03:08:21] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 03:13:51] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 03:19:21] Failed to fetch file from remote server. URL: https://consultasrs.com/sw.js, Status Code: 404
+[2024-07-18 03:19:37] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 03:19:38] Failed to fetch file from remote server. URL: https://consultasrs.com/fonts%2FInter-VariableFont_slnt%252Cwght.woff2, Status Code: 404
+[2024-07-18 03:19:39] Failed to fetch file from remote server. URL: https://consultasrs.com/favicon.ico, Status Code: 404
+[2024-07-18 03:20:44] Failed to fetch file from remote server. URL: https://consultasrs.com/favicon.ico, Status Code: 404
+[2024-07-18 03:56:39] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 03:56:39] Failed to fetch file from remote server. URL: https://consultasrs.com/fonts%2FInter-VariableFont_slnt%252Cwght.woff2, Status Code: 404
+[2024-07-18 03:56:44] Failed to fetch file from remote server. URL: https://consultasrs.com/favicon.ico, Status Code: 404
+[2024-07-18 03:59:41] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fproviders%2Fbanana, Status Code: 404
+[2024-07-18 06:27:14] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fevolution%2Fcrazy-time, Status Code: 404
+[2024-07-18 07:55:07] Failed to fetch file from remote server. URL: https://consultasrs.com/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 08:37:37] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fspribe%2Fkeno, Status Code: 404
+[2024-07-18 08:37:38] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpgsoft%2Fcash-mania, Status Code: 404
+[2024-07-18 08:38:40] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpgsoft%2Fganesha-gold, Status Code: 404
+[2024-07-18 08:39:59] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fproviders%2Fgames-inc, Status Code: 404
+[2024-07-18 08:49:00] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpgsoft%2Ffortune-rabbit, Status Code: 404
+[2024-07-18 09:00:17] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fproviders%2Fsmartsoft, Status Code: 404
+[2024-07-18 09:01:18] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fbanana%2Fbingolar-live-brasil, Status Code: 404
+[2024-07-18 09:11:32] Failed to fetch file from remote server. URL: https://consultasrs.com/casino%2Fcategory%2Fcassino-ao-vivo%2Fpopular, Status Code: 404
+[2024-07-18 09:25:04] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fspribe%2Fmines, Status Code: 404
+[2024-07-18 09:37:20] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fsmartsoft%2Fballoon, Status Code: 404
+[2024-07-18 09:50:37] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Flive-mega-roulette, Status Code: 404
+[2024-07-18 09:58:33] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fevolution%2Ffootball-studio, Status Code: 404
+[2024-07-18 10:08:38] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fterms, Status Code: 404
+[2024-07-18 10:08:38] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fevolution%2Flightning-roulette, Status Code: 404
+[2024-07-18 10:27:20] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpgsoft%2Flucky-neko, Status Code: 404
+[2024-07-18 10:30:07] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Fextra-juicy-megaways, Status Code: 404
+[2024-07-18 10:40:26] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2F5-lions-megaways, Status Code: 404
+[2024-07-18 10:57:23] Failed to fetch file from remote server. URL: https://consultasrs.com/casino%2Fevolution%2Ffootball-studio, Status Code: 404
+[2024-07-18 11:17:31] Failed to fetch file from remote server. URL: https://consultasrs.com/casino%2Fbanana%2Fbanana-mines, Status Code: 404
+[2024-07-18 11:33:39] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fvip%2Fmissions, Status Code: 404
+[2024-07-18 11:52:57] Failed to fetch file from remote server. URL: https://consultasrs.com/casino%2Fpragmaticplay%2Fbigger-bass-bonanza, Status Code: 404
+[2024-07-18 11:57:21] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpgsoft%2Fmidas-fortune, Status Code: 404
+[2024-07-18 11:57:22] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fproviders%2Fpgsoft, Status Code: 404
+[2024-07-18 12:06:22] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Froulette-2, Status Code: 404
+[2024-07-18 12:10:05] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fproviders, Status Code: 404
+[2024-07-18 12:16:23] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fuser%2Frefers, Status Code: 404
+[2024-07-18 12:26:24] Failed to fetch file from remote server. URL: https://consultasrs.com/casino%2Fpgsoft%2Ffortune-tiger, Status Code: 404
+[2024-07-18 12:27:39] Failed to fetch file from remote server. URL: https://consultasrs.com/casino%2Fevolution%2Fxxxtreme-lightning-roulette, Status Code: 404
+[2024-07-18 12:35:33] Exception while fetching file: cURL error 28: Proxy CONNECT aborted due to timeout (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://consultasrs.com/casino%2Fpgsoft%2Ffortune-ox
+[2024-07-18 13:15:44] Failed to fetch file from remote server. URL: https://consultasrs.com/casino%2Fspribe%2Fmines, Status Code: 404
+[2024-07-18 13:15:59] Failed to fetch file from remote server. URL: https://consultasrs.com/casino%2Fsmartsoft%2Fmine-island, Status Code: 404
+[2024-07-18 13:31:59] Failed to fetch file from remote server. URL: https://consultasrs.com/casino%2Fpgsoft%2Ffortune-rabbit, Status Code: 404
+[2024-07-18 13:32:55] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Fmadame-destiny-megaways, Status Code: 404
+[2024-07-18 13:45:44] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fcategory%2Fjogos-crash, Status Code: 404
+[2024-07-18 13:45:59] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Fjokers-jewel-dice, Status Code: 404
+[2024-07-18 14:00:59] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fevolution%2Fmega-ball, Status Code: 404
+[2024-07-18 14:02:57] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpgsoft%2Fdragon-hatch, Status Code: 404
+[2024-07-18 14:15:44] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpgsoft%2Fthe-great-icescape, Status Code: 404
+[2024-07-18 14:15:59] Failed to fetch file from remote server. URL: https://consultasrs.com/casino%2Fspribe%2Faviator, Status Code: 404
+[2024-07-18 14:31:46] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpgsoft%2Flucky-piggy, Status Code: 404
+[2024-07-18 14:32:59] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Fdiamond-strike, Status Code: 404
+[2024-07-18 14:44:04] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Flive-powerup-roulette, Status Code: 404
+[2024-07-18 14:46:44] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fsmartsoft%2Fmine-island, Status Code: 404
+[2024-07-18 14:50:05] Exception while fetching file: cURL error 28: Proxy CONNECT aborted due to timeout (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Fpower-of-thor-megaways
+[2024-07-18 14:51:28] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fcategory%2Fcassino-ao-vivo%2Fpopular, Status Code: 404
+[2024-07-18 14:59:18] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fproviders%2Fbooming, Status Code: 404
+[2024-07-18 15:00:57] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fcategory%2Fslots%2Fpopular, Status Code: 404
+[2024-07-18 15:08:38] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fproviders%2Fevolution, Status Code: 404
+[2024-07-18 15:08:54] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fcategory%2Fjogos-novos, Status Code: 404
+[2024-07-18 15:19:08] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fsmartsoft%2Fbonusroulette, Status Code: 404
+[2024-07-18 15:28:35] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fevolution%2Fturkish-lightning-roulette, Status Code: 404
+[2024-07-18 15:44:50] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpgsoft%2Ffortune-tiger, Status Code: 404
+[2024-07-18 16:27:36] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Fbig-bass-bonanza-megaways, Status Code: 404
+[2024-07-18 16:35:06] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Fchilli-heat-megaways, Status Code: 404
+[2024-07-18 16:42:37] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fspribe%2Fplinko, Status Code: 404
+[2024-07-18 16:50:07] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fpragmaticplay%2Fgreat-rhino-megaways, Status Code: 404
+[2024-07-18 16:56:27] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fresponsible-gaming, Status Code: 404
+[2024-07-18 16:59:11] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fevolution%2Fdream-catcher, Status Code: 404
+[2024-07-18 17:15:17] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fevolution%2Fauto-roulette-vip, Status Code: 404
+[2024-07-18 17:31:12] Failed to fetch file from remote server. URL: https://consultasrs.com/en%2Fcasino%2Fevolution%2Finfinite-blackjack, Status Code: 404
+[2024-07-18 17:43:26] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/index.html, Status Code: 404
+[2024-07-18 17:43:27] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-18 17:43:29] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-18 17:43:29] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/index.html, Status Code: 404
+[2024-07-18 17:43:32] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-18 17:43:39] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-18 17:44:07] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-18 17:44:11] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/casino%2Fcategory%2Fslots%2Fpopular, Status Code: 404
+[2024-07-18 17:44:52] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:52] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:52] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:52] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:52] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:53] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:53] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:53] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 17:44:54] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:54] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:54] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:54] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:54] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:55] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:55] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:55] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:55] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:56] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:57] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:57] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:44:58] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:00] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:01] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-18 17:45:17] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:17] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:17] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:17] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:18] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:18] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:18] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:18] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:18] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:19] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 17:45:19] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:19] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:19] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:19] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:19] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:19] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:19] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:20] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:20] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:20] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:21] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:22] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:23] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:28] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-18 17:45:29] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:29] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:30] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:30] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:30] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:31] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:31] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:31] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:31] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:31] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:31] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:31] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:31] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 17:45:32] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:32] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:32] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:32] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:32] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:33] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:34] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:36] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:45:36] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-18 17:46:05] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-18 17:46:29] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:46:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-18 17:49:25] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:25] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:26] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:26] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:27] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:27] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:27] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:27] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:28] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:28] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:28] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:28] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:28] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:29] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:29] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:29] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:30] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 17:49:30] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:31] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:32] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:32] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:32] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:49:34] Exception while fetching file: mkdir(): Not a directory
+[2024-07-18 17:52:02] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/cpf, Status Code: 404
+[2024-07-18 17:52:08] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/cpf, Status Code: 404
+[2024-07-18 17:52:15] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/cpf, Status Code: 404
+[2024-07-18 17:59:12] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fevolution%2Fstock-market, Status Code: 404
+[2024-07-18 18:01:15] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/cpf, Status Code: 404
+[2024-07-18 18:02:22] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FWUPGo7krypHo.css, Status Code: 404
+[2024-07-18 18:02:23] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FqzvdHRG5xK6k.js, Status Code: 404
+[2024-07-18 18:02:23] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FexQvsgB2WgzC.css, Status Code: 404
+[2024-07-18 18:02:23] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Flatest.js, Status Code: 404
+[2024-07-18 18:02:23] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FVtLRzvwsvd5E.css, Status Code: 404
+[2024-07-18 18:02:24] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FgYeMsjYDOpSM.js, Status Code: 404
+[2024-07-18 18:02:24] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 18:02:24] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2F1vFRhfJbuh4L.css, Status Code: 404
+[2024-07-18 18:02:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2F7R9mFgprB3yo.js, Status Code: 404
+[2024-07-18 18:02:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FXe0naJA6JBy9.css, Status Code: 404
+[2024-07-18 18:02:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2F2L0PbzFP7Lq5.css, Status Code: 404
+[2024-07-18 18:02:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2F1fbcSIu1J5F7.js, Status Code: 404
+[2024-07-18 18:02:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FQ0PgLpLDA5M5.js, Status Code: 404
+[2024-07-18 18:02:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FwjDLaOPhKuc7.js, Status Code: 404
+[2024-07-18 18:02:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FvRNmMrQ9APcw.js, Status Code: 404
+[2024-07-18 18:02:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FQMv6OfQnvMCr.js, Status Code: 404
+[2024-07-18 18:02:26] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FchO7dVXzO2os.js, Status Code: 404
+[2024-07-18 18:02:26] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Flatest_1.js, Status Code: 404
+[2024-07-18 18:02:26] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FrTqxu9eOQXUm.js, Status Code: 404
+[2024-07-18 18:02:26] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/fonts%2FtyeUPDfDE5M3.woff2, Status Code: 404
+[2024-07-18 18:02:26] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/fonts%2FMnXrwZ8EuUDJ.woff2, Status Code: 404
+[2024-07-18 18:02:26] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/images%2F8cTIFtKHUlQQ.svg, Status Code: 404
+[2024-07-18 18:02:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2F2L0PbzFP7Lq5.css, Status Code: 404
+[2024-07-18 18:02:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FqzvdHRG5xK6k.js, Status Code: 404
+[2024-07-18 18:02:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Flatest.js, Status Code: 404
+[2024-07-18 18:02:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FexQvsgB2WgzC.css, Status Code: 404
+[2024-07-18 18:02:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FXe0naJA6JBy9.css, Status Code: 404
+[2024-07-18 18:02:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FWUPGo7krypHo.css, Status Code: 404
+[2024-07-18 18:02:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2F1vFRhfJbuh4L.css, Status Code: 404
+[2024-07-18 18:02:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FVtLRzvwsvd5E.css, Status Code: 404
+[2024-07-18 18:02:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FchO7dVXzO2os.js, Status Code: 404
+[2024-07-18 18:02:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fplayer_1.js, Status Code: 404
+[2024-07-18 18:02:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FQMv6OfQnvMCr.js, Status Code: 404
+[2024-07-18 18:02:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2F7R9mFgprB3yo.js, Status Code: 404
+[2024-07-18 18:02:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FgYeMsjYDOpSM.js, Status Code: 404
+[2024-07-18 18:02:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2F1fbcSIu1J5F7.js, Status Code: 404
+[2024-07-18 18:02:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FvRNmMrQ9APcw.js, Status Code: 404
+[2024-07-18 18:02:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FwjDLaOPhKuc7.js, Status Code: 404
+[2024-07-18 18:02:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Flatest_1.js, Status Code: 404
+[2024-07-18 18:02:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FrTqxu9eOQXUm.js, Status Code: 404
+[2024-07-18 18:02:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2FQ0PgLpLDA5M5.js, Status Code: 404
+[2024-07-18 18:02:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/images%2F8cTIFtKHUlQQ.svg, Status Code: 404
+[2024-07-18 18:02:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/fonts%2FMnXrwZ8EuUDJ.woff2, Status Code: 404
+[2024-07-18 18:02:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2F2L0PbzFP7Lq5.css, Status Code: 404
+[2024-07-18 18:02:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FWUPGo7krypHo.css, Status Code: 404
+[2024-07-18 18:02:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FXe0naJA6JBy9.css, Status Code: 404
+[2024-07-18 18:02:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FexQvsgB2WgzC.css, Status Code: 404
+[2024-07-18 18:02:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/fonts%2FtyeUPDfDE5M3.woff2, Status Code: 404
+[2024-07-18 18:02:59] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FVtLRzvwsvd5E.css, Status Code: 404
+[2024-07-18 18:02:59] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2F1vFRhfJbuh4L.css, Status Code: 404
+[2024-07-18 18:02:59] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/fonts%2FMnXrwZ8EuUDJ.woff2, Status Code: 404
+[2024-07-18 18:02:59] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/fonts%2FInter-VariableFont_slnt%252Cwght.woff2, Status Code: 404
+[2024-07-18 18:02:59] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-18 18:03:00] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/images%2F8cTIFtKHUlQQ.svg, Status Code: 404
+[2024-07-18 18:03:00] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/fonts%2FtyeUPDfDE5M3.woff2, Status Code: 404
+[2024-07-18 18:03:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2F2L0PbzFP7Lq5.css, Status Code: 404
+[2024-07-18 18:03:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FXe0naJA6JBy9.css, Status Code: 404
+[2024-07-18 18:03:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FWUPGo7krypHo.css, Status Code: 404
+[2024-07-18 18:03:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FexQvsgB2WgzC.css, Status Code: 404
+[2024-07-18 18:03:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2F1vFRhfJbuh4L.css, Status Code: 404
+[2024-07-18 18:03:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FVtLRzvwsvd5E.css, Status Code: 404
+[2024-07-18 18:03:07] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FWUPGo7krypHo.css, Status Code: 404
+[2024-07-18 18:03:08] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FexQvsgB2WgzC.css, Status Code: 404
+[2024-07-18 18:03:08] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2F2L0PbzFP7Lq5.css, Status Code: 404
+[2024-07-18 18:03:08] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FXe0naJA6JBy9.css, Status Code: 404
+[2024-07-18 18:03:08] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2FVtLRzvwsvd5E.css, Status Code: 404
+[2024-07-18 18:03:08] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/images%2F8cTIFtKHUlQQ.svg, Status Code: 404
+[2024-07-18 18:03:08] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2F1vFRhfJbuh4L.css, Status Code: 404
+[2024-07-18 18:03:09] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/fonts%2FMnXrwZ8EuUDJ.woff2, Status Code: 404
+[2024-07-18 18:03:09] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/fonts%2FInter-VariableFont_slnt%252Cwght.woff2, Status Code: 404
+[2024-07-18 18:03:09] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/fonts%2FtyeUPDfDE5M3.woff2, Status Code: 404
+[2024-07-18 18:07:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-18 18:25:30] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 18:25:39] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-18 18:25:39] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-18 18:25:39] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-18 18:25:39] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-18 18:25:39] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-18 18:25:39] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-18 18:25:39] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-18 18:25:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-18 18:25:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-18 18:25:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-18 18:25:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-18 18:25:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-18 18:25:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-18 18:25:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-18 18:26:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 18:27:01] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-18 18:27:01] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-18 18:27:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-18 18:27:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-18 18:27:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-18 18:27:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-18 18:27:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-18 18:27:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-18 18:27:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-18 18:27:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-18 18:27:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-18 18:27:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-18 18:27:04] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-18 18:27:17] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-18 18:29:12] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/en%2Fcasino%2Fpragmaticplay%2Fstarz-megaways, Status Code: 404
+[2024-07-18 18:32:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-18 18:32:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-18 18:32:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-18 18:32:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-18 18:32:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-18 18:34:01] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/index.html, Status Code: 404
+[2024-07-18 18:34:42] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 18:34:44] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-18 18:41:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/casino%2Fpragmaticplay%2Flive-spaceman, Status Code: 404
+[2024-07-18 18:47:28] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 18:47:30] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-18 18:47:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-18 18:47:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-18 18:47:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-18 18:47:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-18 18:47:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-18 18:47:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-18 18:47:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-18 18:47:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-18 18:47:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-18 18:47:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-18 18:47:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-18 18:47:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-18 18:47:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-18 19:17:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/en%2Fpromotions%2Fcashback-diariamente-na-cassinopix, Status Code: 404
+[2024-07-18 19:34:08] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/casino%2Fpgsoft%2Ffortune-dragon, Status Code: 404
+[2024-07-18 19:37:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 19:37:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-18 19:38:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 19:38:05] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-18 19:38:08] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 19:38:13] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-18 19:38:13] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-18 19:38:13] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-18 19:38:14] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-18 19:38:14] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-18 19:38:14] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-18 19:38:14] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-18 19:38:15] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-18 19:38:15] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-18 19:38:15] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-18 19:38:15] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-18 19:38:15] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-18 19:38:17] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-18 19:52:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/casino%2Fpgsoft%2Fcash-mania, Status Code: 404
+[2024-07-18 20:10:12] Exception while fetching file: cURL error 28: Proxy CONNECT aborted due to timeout (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://www.resgate-pendencias-hoje.online/en%2Fcasino%2Fcategory%2Fcassino-ao-vivo
+[2024-07-18 20:28:14] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/en%2Fcasino%2Fpragmaticplay%2Fmaster-joker, Status Code: 404
+[2024-07-18 20:36:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-18 20:36:42] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-18 20:46:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/en%2Fcasino%2Fspribe%2Faviator, Status Code: 404
+[2024-07-18 20:52:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/resgate-quiz%2Findex.html, Status Code: 404
+[2024-07-18 20:52:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-18 20:57:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/en%2Fcasino%2Fevoplay%2Flong-ball, Status Code: 404
+[2024-07-18 21:04:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/en%2Fcasino%2Fproviders%2Ftvbet, Status Code: 404
+[2024-07-18 21:15:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/casino%2Fpragmaticplay%2Froleta-brasileira, Status Code: 404
+[2024-07-18 21:22:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/en%2Fcasino%2Fspribe%2Fhilo, Status Code: 404
+[2024-07-18 21:34:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/en%2Fvip%2Ftournaments, Status Code: 404
+[2024-07-18 21:51:53] Exception while fetching file: cURL error 3:  (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for en%2Fcasino%2Fpragmaticplay%2Fgates-of-olympus
+[2024-07-18 22:10:53] Exception while fetching file: cURL error 3:  (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for en%2Fcasino%2Fpragmaticplay%2Froleta-brasileira
+[2024-07-18 22:28:04] Exception while fetching file: cURL error 3:  (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for en%2Fcasino%2Fpragmaticplay%2Froulette
+[2024-07-18 22:45:53] Exception while fetching file: cURL error 3:  (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for en%2Fcasino%2Fcategory%2Froleta
+[2024-07-18 23:04:53] Exception while fetching file: cURL error 3:  (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for en%2Fcasino%2Fcategory%2Fslots%2Fpopular
+[2024-07-18 23:21:53] Exception while fetching file: cURL error 3:  (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for en%2Fcasino%2Fpragmaticplay%2Fchristmas-carol-megaways
+[2024-07-18 23:28:07] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/cd, Status Code: 404
+[2024-07-18 23:28:10] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/cd, Status Code: 404
+[2024-07-18 23:28:11] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:28:12] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:28:41] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:28:50] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/cd, Status Code: 404
+[2024-07-18 23:28:53] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:29:01] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:29:03] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:29:06] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/cd, Status Code: 404
+[2024-07-18 23:29:31] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-18 23:29:31] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:29:33] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:29:34] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/assets%2Fcss%2F1c7a3d2ee9759dc256d915300855c494.css, Status Code: 404
+[2024-07-18 23:29:34] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/assets%2Fcss%2F5921624bf5bbe4c8c091ef09226fa76f.css, Status Code: 404
+[2024-07-18 23:29:34] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/assets%2Fcss%2Fstyle.css, Status Code: 404
+[2024-07-18 23:29:34] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/assets%2Fcss%2Fba9cbbe9240a489628be8eb27c56db8a.css, Status Code: 404
+[2024-07-18 23:29:34] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/assets%2Fjs%2Ffuncoes.js, Status Code: 404
+[2024-07-18 23:29:35] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/assets%2Fcss%2Fanimated.css, Status Code: 404
+[2024-07-18 23:29:35] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/assets%2Fimages%2Flogo.png, Status Code: 404
+[2024-07-18 23:29:37] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:29:37] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/assets%2Fimages%2Ffaveicon.png, Status Code: 404
+[2024-07-18 23:29:39] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:29:42] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:29:46] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-18 23:29:48] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:29:52] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:29:55] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:29:59] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:30:23] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:30:52] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:31:18] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:33:02] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:35:01] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:47:37] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpragmaticplay%2Felemental-gems-megaways, Status Code: 404
+[2024-07-18 23:52:49] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-18 23:53:15] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-19 00:38:47] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/favicon.ico, Status Code: 404
+[2024-07-19 00:45:32] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/favicon.ico, Status Code: 404
+[2024-07-19 01:22:44] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/md%2Finicio.html, Status Code: 404
+[2024-07-19 01:23:01] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/md%2Finicio.html, Status Code: 404
+[2024-07-19 01:23:10] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/md%2Finicio.html, Status Code: 404
+[2024-07-19 01:23:18] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/md%2Finicio.html, Status Code: 404
+[2024-07-19 02:26:58] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-19 02:29:23] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-19 02:29:24] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/favicon.ico, Status Code: 404
+[2024-07-19 02:34:16] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/cpf, Status Code: 404
+[2024-07-19 02:34:17] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/favicon.ico, Status Code: 404
+[2024-07-19 05:07:13] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-19 12:07:24] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/casino%2Fspribe%2Faviator, Status Code: 404
+[2024-07-19 14:33:30] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-19 14:37:01] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fcash-mania, Status Code: 404
+[2024-07-19 14:37:02] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fganesha-gold, Status Code: 404
+[2024-07-19 14:58:04] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fmidas-fortune, Status Code: 404
+[2024-07-19 16:27:03] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fterms, Status Code: 404
+[2024-07-19 16:28:04] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Ffortune-tiger, Status Code: 404
+[2024-07-19 19:27:04] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fdragon-tiger-luck, Status Code: 404
+[2024-07-19 19:34:59] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-19 19:35:00] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/favicon.ico, Status Code: 404
+[2024-07-19 19:54:48] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpragmaticplay%2Flive-spaceman, Status Code: 404
+[2024-07-19 20:39:19] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fresponsible-gaming, Status Code: 404
+[2024-07-20 00:34:24] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/casino%2Fsmartsoft%2Ffootballx, Status Code: 404
+[2024-07-20 03:46:14] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fevolution%2Fdeal-or-no-deal, Status Code: 404
+[2024-07-20 03:51:17] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fcategory%2Fjogos-da-pg, Status Code: 404
+[2024-07-20 05:06:40] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-20 06:04:42] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fcategory%2Fjogos-de-aventura, Status Code: 404
+[2024-07-20 06:09:45] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Ffugaso%2Fmagnify-man, Status Code: 404
+[2024-07-20 09:57:13] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fsmartsoft%2Fcricketx, Status Code: 404
+[2024-07-20 10:42:13] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpragmaticplay%2Flive-sweet-bonanza-candyland, Status Code: 404
+[2024-07-20 11:27:13] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fevolution%2Fimmersive-roulette, Status Code: 404
+[2024-07-20 12:13:13] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fproviders%2Fbanana, Status Code: 404
+[2024-07-20 14:57:31] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fevolution%2Fmega-ball, Status Code: 404
+[2024-07-20 14:58:25] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fproviders%2Fevolution, Status Code: 404
+[2024-07-20 15:27:28] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fsmartsoft%2Fmine-island, Status Code: 404
+[2024-07-20 15:57:13] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fsmartsoft%2Fbonusroulette, Status Code: 404
+[2024-07-20 18:28:28] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Ffortune-rabbit, Status Code: 404
+[2024-07-20 18:57:13] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fcategory%2Fjogos-novos, Status Code: 404
+[2024-07-20 18:59:14] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-20 18:59:36] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fganesha-gold, Status Code: 404
+[2024-07-20 18:59:37] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fcash-mania, Status Code: 404
+[2024-07-20 19:02:07] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Ffortune-tiger, Status Code: 404
+[2024-07-20 19:05:08] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fterms, Status Code: 404
+[2024-07-20 19:27:28] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fsmartsoft%2Fballoon, Status Code: 404
+[2024-07-20 19:28:31] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/casino%2Fsmartsoft%2Ffootballx, Status Code: 404
+[2024-07-20 19:57:14] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fproviders%2Fbooming, Status Code: 404
+[2024-07-20 20:27:28] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fevolution%2Flightning-roulette, Status Code: 404
+[2024-07-20 20:58:14] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fproviders%2Fgames-inc, Status Code: 404
+[2024-07-20 20:58:31] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fdragon-tiger-luck, Status Code: 404
+[2024-07-20 21:28:28] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fuser%2Frefers, Status Code: 404
+[2024-07-20 21:28:36] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpragmaticplay%2Fsuper-trunfo, Status Code: 404
+[2024-07-20 21:59:33] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpragmaticplay%2Flive-mega-roulette, Status Code: 404
+[2024-07-20 22:27:28] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fproviders%2Fpgsoft, Status Code: 404
+[2024-07-20 22:58:05] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/casino%2Fcategory%2Fcassino-ao-vivo%2Fpopular, Status Code: 404
+[2024-07-20 23:06:40] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpragmaticplay%2Flive-spaceman, Status Code: 404
+[2024-07-20 23:27:28] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpragmaticplay%2Froulette-2, Status Code: 404
+[2024-07-20 23:28:33] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpragmaticplay%2Fsweet-bonanza, Status Code: 404
+[2024-07-20 23:57:13] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/casino%2Fpgsoft%2Ffortune-tiger, Status Code: 404
+[2024-07-21 00:27:28] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fevolution%2Ffootball-studio, Status Code: 404
+[2024-07-21 00:57:13] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpragmaticplay%2Fjokers-jewel-dice, Status Code: 404
+[2024-07-21 01:57:13] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fevolution%2Fcrazy-time, Status Code: 404
+[2024-07-21 03:45:56] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fcategory%2Fcassino-ao-vivo%2Fpopular, Status Code: 404
+[2024-07-21 03:58:43] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fevolution%2Fturkish-lightning-roulette, Status Code: 404
+[2024-07-21 04:16:42] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fproviders%2Fsmartsoft, Status Code: 404
+[2024-07-21 04:44:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/index.html, Status Code: 404
+[2024-07-21 04:44:04] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-21 04:44:06] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:44:07] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/index.html, Status Code: 404
+[2024-07-21 04:44:09] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:44:38] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:44:45] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-21 04:44:50] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:45:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 04:45:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 04:45:02] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 04:45:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-21 04:45:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 04:45:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-21 04:45:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-21 04:45:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-21 04:45:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 04:45:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-21 04:45:04] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-21 04:45:04] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-21 04:45:04] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-21 04:45:06] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:45:20] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-21 04:45:51] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:46:30] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 04:46:30] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 04:46:30] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 04:46:30] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 04:46:31] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-21 04:46:31] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-21 04:46:31] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-21 04:46:31] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-21 04:46:31] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-21 04:46:32] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-21 04:46:32] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-21 04:46:32] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-21 04:46:32] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 04:46:34] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:46:35] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 04:46:35] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 04:46:35] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 04:46:35] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 04:46:36] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 04:46:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 04:46:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 04:46:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 04:46:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 04:46:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 04:46:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-21 04:46:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-21 04:46:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-21 04:46:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-21 04:46:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-21 04:46:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-21 04:46:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-21 04:46:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-21 04:46:44] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:46:48] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-21 04:46:51] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:46:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 04:46:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 04:46:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 04:46:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-21 04:46:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 04:46:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 04:46:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-21 04:46:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-21 04:46:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-21 04:46:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-21 04:46:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-21 04:46:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-21 04:46:58] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-21 04:47:01] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:47:10] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-21 04:47:41] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:48:12] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 04:48:12] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 04:48:12] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 04:48:12] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 04:48:12] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 04:50:17] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-21 04:50:19] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-21 04:50:20] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:50:23] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 04:50:23] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 04:50:24] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-21 04:50:24] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 04:50:24] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 04:50:24] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-21 04:50:24] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-21 04:50:24] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 04:50:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-21 04:50:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-21 04:50:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-21 04:50:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-21 04:50:25] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-21 04:50:28] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:50:32] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 04:50:32] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 04:50:32] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 04:50:33] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 04:50:33] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 04:50:38] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-21 04:50:53] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 04:50:53] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 04:50:53] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 04:50:53] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 04:50:53] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-21 04:50:53] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 04:50:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-21 04:50:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-21 04:50:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-21 04:50:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-21 04:50:54] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-21 04:50:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-21 04:50:55] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-21 04:50:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 04:51:06] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-21 04:55:18] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 05:00:44] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-21 05:00:48] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 05:01:12] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 05:01:12] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 05:01:12] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 05:01:12] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 05:01:13] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 05:01:13] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-21 05:01:13] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-21 05:01:13] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-21 05:01:13] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-21 05:01:13] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-21 05:01:13] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-21 05:01:13] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-21 05:01:14] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-21 05:01:16] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-21 05:01:40] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/cpf%2Fjs%2Fplayer_1.js, Status Code: 404
+[2024-07-21 05:01:43] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 05:01:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 05:01:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 05:01:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 05:01:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 05:01:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 05:01:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-21 05:01:56] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-21 05:01:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-21 05:01:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-21 05:01:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-21 05:01:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-21 05:01:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-21 05:01:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-21 05:02:00] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 05:02:08] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/favicon.ico, Status Code: 404
+[2024-07-21 05:02:16] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 05:02:16] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 05:02:16] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 05:02:16] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 05:02:16] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 05:06:18] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-21 05:07:35] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/index.html, Status Code: 404
+[2024-07-21 05:07:57] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/en%2Fcasino%2Fspribe%2Fkeno, Status Code: 404
+[2024-07-21 05:10:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Ffrontend-lite.min.css, Status Code: 404
+[2024-07-21 05:10:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-6.css, Status Code: 404
+[2024-07-21 05:10:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery-migrate.min.js, Status Code: 404
+[2024-07-21 05:10:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fglobal.css, Status Code: 404
+[2024-07-21 05:10:03] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fswiper.min.css, Status Code: 404
+[2024-07-21 05:10:04] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwebpack.runtime.min.js, Status Code: 404
+[2024-07-21 05:10:04] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend.min.js, Status Code: 404
+[2024-07-21 05:10:04] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwaypoints.min.js, Status Code: 404
+[2024-07-21 05:10:04] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Ffrontend-modules.min.js, Status Code: 404
+[2024-07-21 05:10:04] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fcore.min.js, Status Code: 404
+[2024-07-21 05:10:04] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/css%2Fpost-24.css, Status Code: 404
+[2024-07-21 05:10:05] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fjquery.min.js, Status Code: 404
+[2024-07-21 05:10:05] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/js%2Fwp-emoji-release.min.js, Status Code: 404
+[2024-07-21 05:11:48] Failed to fetch file from remote server. URL: https://www.resgate-pendencias-hoje.online/sw.js, Status Code: 404
+[2024-07-24 04:44:06] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/md%2Finicio, Status Code: 404
+[2024-07-24 04:44:12] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/md%2Finicio.html, Status Code: 404
+[2024-07-24 04:54:37] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-24 04:54:40] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-24 04:55:09] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/sw.js, Status Code: 404
+[2024-07-24 05:01:00] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/md%2FoutroPix.html, Status Code: 404
+[2024-07-24 05:09:49] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-24 05:59:38] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fganesha-gold, Status Code: 404
+[2024-07-24 08:59:40] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Ffortune-tiger, Status Code: 404
+[2024-07-24 10:49:49] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fcash-mania, Status Code: 404
+[2024-07-24 10:51:02] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fterms, Status Code: 404
+[2024-07-24 12:21:02] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/casino%2Fpragmaticplay%2Fbig-bass-crash, Status Code: 404
+[2024-07-24 13:51:06] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fdragon-tiger-luck, Status Code: 404
+[2024-07-24 17:14:42] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/casino%2Fpragmaticplay%2Fgates-of-olympus, Status Code: 404
+[2024-07-24 18:14:21] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/casino%2Fpragmaticplay%2Fheart-of-rio, Status Code: 404
+[2024-07-25 05:06:53] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-25 11:28:58] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Ffortune-tiger, Status Code: 404
+[2024-07-25 12:43:07] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fterms, Status Code: 404
+[2024-07-25 12:43:09] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fganesha-gold, Status Code: 404
+[2024-07-25 14:13:08] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fcash-mania, Status Code: 404
+[2024-07-25 16:29:12] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/casino%2Fpragmaticplay%2Fgates-of-olympus, Status Code: 404
+[2024-07-26 00:04:06] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fdragon-tiger-luck, Status Code: 404
+[2024-07-26 05:08:36] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-26 12:30:31] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fterms, Status Code: 404
+[2024-07-26 14:00:36] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fcash-mania, Status Code: 404
+[2024-07-26 15:10:56] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Fganesha-gold, Status Code: 404
+[2024-07-26 16:10:56] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/index.html, Status Code: 404
+[2024-07-26 17:00:51] Failed to fetch file from remote server. URL: https://cupomdinheiroapp.com/en%2Fcasino%2Fpgsoft%2Ffortune-tiger, Status Code: 404
